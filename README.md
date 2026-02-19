@@ -1,13 +1,13 @@
 📌 Project Overview
-This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories.
-The objective is to uncover actionable insights into:
-•	Customer spending patterns
-•	Demographic-based revenue trends
-•	Product performance
-•	Discount and promotion impact
-•	Subscription behavior
-•	Customer segmentation
-The findings are used to support data-driven business decisions.
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories.                                 
+The objective is to uncover actionable insights into:                                                                          
+•	Customer spending patterns                                                       
+•	Demographic-based revenue trends                                                                          
+•	Product performance                                                                                             
+•	Discount and promotion impact                                                               
+•	Subscription behavior                                                                                   
+•	Customer segmentation                                                                                                                
+The findings are used to support data-driven business decisions.                                                                                           
 ________________________________________
 📊 Dataset Summary
 •	Total Records: 3,900
